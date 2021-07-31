@@ -1,0 +1,3 @@
+rootProject.name = "DigitConverter"
+include ':app'
+include ':digitconverter'
