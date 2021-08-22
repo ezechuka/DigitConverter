@@ -19,7 +19,7 @@ The range of values currently supported is 1 - 9,999,999.
     Add dependency in your app module
 
 	  dependencies {
-	        implementation 'com.github.ezechuka:DigitConverter:1.0.0'
+	        implementation 'com.github.ezechuka:DigitConverter:1.0.1'
 	  }
 
       
