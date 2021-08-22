@@ -1,7 +1,7 @@
 package com.javalon.digitconverter
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.ezechuka.digitconverter.DigitConverter
 
 class MainActivity : AppCompatActivity() {
